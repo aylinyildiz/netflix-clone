@@ -1,3 +1,7 @@
+.row {
+  color: white;
+  margin-left: 20px;
+}
 .row_posters {
   display: flex; /*aşağı doğru sıralanmış fotoğrafları yan yana aldı*/
   overflow-y: hidden;
@@ -19,4 +23,11 @@
 
 .row_poster:hover {
   transform: scale(1.08);
+}
+
+.row_posterLarge {
+  max-height: 250px;
+}
+.row_posterLarge:hover {
+  transform: scale(1.09);
 }
