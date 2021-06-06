@@ -1,6 +1,6 @@
 {
   "name": "netflix-clone",
-  "homepage":"“http://aylinyildiz.github.io/netflix-clone",
+  "homepage":"http://aylinyildiz.github.io/netflix-clone",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
